@@ -33,6 +33,7 @@ _ = lambda s: s
 LANGUAGES = (
     ('el', u'Ελληνικά'),
     ('en', _('English')),
+    ('fr', u'Français'),
 )
 
 LANGUAGE_CODE = 'en-us'
