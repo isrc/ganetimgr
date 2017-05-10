@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-21 13:42+0200\n"
-"PO-Revision-Date: 2017-05-10 14:07+0200\n"
+"PO-Revision-Date: 2017-05-10 14:27+0200\n"
 "Last-Translator: Leonidas Poulopoulos <alex@noc.grnet.gr>\n"
 "Language-Team: isrc <informatique.src@gmail.com>\n"
 "Language: fr\n"
@@ -460,7 +460,7 @@ msgstr "Créer VM"
 #: templates/base.html:173 templates/base.html.py:210
 #: templates/stats/statistics.html:326
 msgid "Applications"
-msgstr "Application"
+msgstr "Demandes de VM"
 
 #: templates/base.html:185 templates/base.html.py:233
 #: templates/apply/admin_apply.html:9 templates/apply/application_list.html:22
